@@ -18,6 +18,6 @@ class complexe{
   void afficher();
   void setRel(int);
   void setImg(int);
-//  friend complexe operator*(const complexe&,const complexe&);
+//  friend   complexe operator*(const complexe&,const complexe&);
 };
 #endif
