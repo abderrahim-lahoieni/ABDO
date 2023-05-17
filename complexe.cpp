@@ -6,7 +6,7 @@
   img=y;	
 }
 
- complexe complexe::operator+(const complexe&C)
+ complexe   complexe::operator+(const complexe&C)
 {
 return  complexe(rel+C.rel,img+C.img);
 }
